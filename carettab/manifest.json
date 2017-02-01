@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
  
-  "name": "CaretTab - New Tab Page",
+  "name": "CaretTab - Roboto",
   "short_name": "CaretTab",
   "description": "A simplistic New Tab page with options for displaying time, date, search, favorite links, and more!",
   "version": "1.1.0",
